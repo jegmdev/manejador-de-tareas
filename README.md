@@ -21,9 +21,23 @@ Plugin personalizado para WordPress que permite registrar tareas con campos pers
 
 ### Mostrar tareas en una página
 Agrega el siguiente shortcode en el contenido de una página o entrada:
+[lista_tareas]
 
+### Mostrar año actual
+Agrega el siguiente shortcode en el contenido de una página o entrada:
+[year_actual]
 
-> Muestra una lista de tareas ordenadas por prioridad.
+## 🧩 Vista de la lista de tareas
+![Lista de tareas](./assets/vista-general-lista-tareas.png)
+
+## 🧩 Vista de contacto
+![Lista de tareas](./assets/vista-contacto.png)
+
+## 📱 Lista de tareas responsive en mobile
+![Menú responsive](./assets/vista-general-mobile.png)
+
+## 📱 Lista de contacto responsive en mobile
+![Menú responsive](./assets/vista-contacto-mobile.png)
 
 ## 🛠️ Estructura del plugin
 
